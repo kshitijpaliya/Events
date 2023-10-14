@@ -198,3 +198,7 @@ a:hover {
     color: orangered;
 }
 
+.event:hover {
+    background-color: rgb(198, 13, 211);
+    color: white;
+}
